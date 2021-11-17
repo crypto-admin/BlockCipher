@@ -7,5 +7,6 @@ add_subdirectory(sha1)
 add_subdirectory(sm3)
 add_subdirectory(aes)
 add_subdirectory(sm4)
-
+add_subdirectory(sealpir)
+add_subdirectory(sealpir_test)
 

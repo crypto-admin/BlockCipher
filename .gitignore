@@ -33,5 +33,6 @@
 Testing/
 Makefile
 .DS_Store
-
+*.cmake
+*/CMakeFiles/*
 
