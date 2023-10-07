@@ -1,0 +1,1 @@
+g++ main.cpp -o main -I /usr/include/openssl/ -l crypto
